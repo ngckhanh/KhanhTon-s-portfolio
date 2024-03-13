@@ -2,15 +2,22 @@ var dataJson = [
     {
         "img": "https://i.imgur.com/w5z4Izl.png",
         "title": "Greenify",
-        "paragraph":"Greenify : an Environmental forum website.",
+        "paragraph":"an Environmental forum website.",
         "url":"https://greenify-seven.vercel.app/"
     },
     {
         "img": "",
         "title": "Lazada website",
-        "paragraph":"Quizec : is The Quiz Game For Android.",
+        "paragraph":"is a prominent e-commerce platform offering a vast array of products and services to consumers.",
         "url":"https://github.com/ngckhanh/lazada"
+    },
+    {
+      "img": "",
+      "title": "War Remnants Museum",
+      "paragraph":"offers a poignant exploration of Vietnam's wartime history through powerful exhibits and poignant narratives.",
+      "url":"https://ucd-museum-19.vercel.app/"
     }
+    
 ];
 
 var raw_html = "";
