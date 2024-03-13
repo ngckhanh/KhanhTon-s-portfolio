@@ -4,7 +4,7 @@
 Portfolio Website using HTML CSS JS and JQ.
 
 ## Sneak Peek of Site 🙈 :
-<img src="https://i.imgur.com/w5z4Izl.png" />
+<img src="https://i.imgur.com/M3uJMOL.png" />
 
 &nbsp;&nbsp;<a href="https://khanh-ton-s-portfolio.vercel.app/">Live-Watch</a>
 
